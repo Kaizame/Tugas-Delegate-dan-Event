@@ -1,0 +1,21 @@
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.CoreCompileInputs.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
